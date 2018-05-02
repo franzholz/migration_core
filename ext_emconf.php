@@ -7,10 +7,10 @@
 
 $EM_CONF[$_EXTKEY] = array (
   'title' => 'Static Methods since 2007',
-  'description' => 'This extension provides the migration classes for TYPO3 8.x',
+  'description' => 'This extension provides the migration classes for TYPO3 8.x. This provides backwards compatibility to TYPO3 6.2 and 4.5',
   'category' => 'misc',
   'shy' => 0,
-  'version' => '0.1.0',
+  'version' => '0.1.1',
   'dependencies' => '',
   'conflicts' => '',
   'suggests' => '',
