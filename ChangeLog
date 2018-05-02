@@ -1,3 +1,4 @@
 2018-05-02 Franz Holzinger  <franz@ttproducts.de>
+    * adapt class map for TYPO3 8.x
     * copy files from extension div2007
     * Initial release
