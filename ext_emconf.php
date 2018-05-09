@@ -7,7 +7,7 @@
 
 $EM_CONF[$_EXTKEY] = array (
   'title' => 'Migration from TYPO3 4.5 to 8.x',
-  'description' => 'This extension provides the migration classes for TYPO3 8.x. This provides backwards compatibility to TYPO3 6.2 and 4.5',
+  'description' => 'This extension provides the migration classes needed for TYPO3 8.x like t3lib_div, t3lib_extMgm, tslib_pibase and all others. This provides backwards compatibility to TYPO3 4.5 - 6.1',
   'category' => 'misc',
   'shy' => 0,
   'version' => '0.1.1',

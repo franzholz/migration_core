@@ -1,13 +1,15 @@
 {
   "name": "jambagecom/migration-core",
   "type": "typo3-cms-extension",
-  "description": "Migration class maps for TYPO3 Core functions.",
+  "description": "Migration class maps for TYPO3 Core classes like t3lib_div, t3lib_extMgm and tslib_pibase.",
   "keywords": [
     "TYPO3",
     "extension",
     "compatibility",
     "t3lib_div",
-    "tslib_pibase"
+    "tslib_pibase",
+    "t3lib_extMgm",
+    "4.5"
   ],
   "support": {
     "issues": "https://github.com/franzholz/migration_core/issues"
@@ -26,11 +28,6 @@
   "require": {
     "php": ">=5.5.0,<=7.99.99",
     "typo3/cms-core": ">=8.7.0,<8.99.99"
-  },
-  "autoload": {
-    "psr-4": {
-      "JambageCom\\MigrationCore\\": "Classes"
-    }
   },
   "replace": {
     "migration_core": "self.version",

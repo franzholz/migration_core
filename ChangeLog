@@ -1,3 +1,6 @@
+2018-05-09 Franz Holzinger  <franz@ttproducts.de>
+    * remove the autoload part from the composer file because this extension has no PHP classes by itself
+
 2018-05-03 Franz Holzinger  <franz@ttproducts.de>
     * bugfix: Give the correct extension name
 
