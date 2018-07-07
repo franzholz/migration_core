@@ -842,8 +842,6 @@ $classArray = array(
     'Tx_Workspaces_Service_AutoPublishTask' => \TYPO3\CMS\Workspaces\Task\AutoPublishTask::class,
     'Tx_Workspaces_Service_CleanupPreviewLinkTask' => \TYPO3\CMS\Workspaces\Task\CleanupPreviewLinkTask::class,
 
-    /* Only available for TYPO3 >= 8.x :  */
-
     'Tx_Aboutmodules_Controller_ModulesController' => \TYPO3\CMS\About\Controller\ModulesController::class,
     'SC_wizard_rte' => \TYPO3\CMS\Rtehtmlarea\Controller\Wizard\RteController::class,
     'Tx_Fluid_Core_Compiler_AbstractCompiledTemplate' => \TYPO3Fluid\Fluid\Core\Compiler\AbstractCompiledTemplate::class,
@@ -895,12 +893,7 @@ $classArray = array(
     'Tx_Fluid_ViewHelpers_LayoutViewHelper' => \TYPO3Fluid\Fluid\ViewHelpers\LayoutViewHelper::class,
     'Tx_Fluid_ViewHelpers_RenderViewHelper' => \TYPO3Fluid\Fluid\ViewHelpers\RenderViewHelper::class,
     'Tx_Fluid_ViewHelpers_SectionViewHelper' => \TYPO3Fluid\Fluid\ViewHelpers\SectionViewHelper::class,
-    'Tx_Fluid_ViewHelpers_ThenViewHelper' => \TYPO3Fluid\Fluid\ViewHelpers\ThenViewHelper::class,
-    'tx_indexedsearch' => \TYPO3\CMS\Compatibility7\Controller\SearchFormController::class,
-    'Tx_Workspaces_ExtDirect_AbstractHandler' => \TYPO3\CMS\Workspaces\Controller\Remote\AbstractHandler::class,
-    'Tx_Workspaces_ExtDirect_ActionHandler' => \TYPO3\CMS\Workspaces\Controller\Remote\ActionHandler::class,
-    'Tx_Workspaces_ExtDirect_MassActionHandler' => \TYPO3\CMS\Workspaces\Controller\Remote\MassActionHandler::class,
-    'Tx_Workspaces_ExtDirect_PagetreeCollectionsProcessor' => \TYPO3\CMS\Workspaces\Hooks\PagetreeCollectionsProcessor::class,
+    'Tx_Fluid_ViewHelpers_ThenViewHelper' => \TYPO3Fluid\Fluid\ViewHelpers\ThenViewHelper::class
 );
 
 ksort($classArray);
