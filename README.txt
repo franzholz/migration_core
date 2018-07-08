@@ -6,8 +6,7 @@ Error messages like this should not happen any more:
 
 If you install this extension, then most of the extensions written for TYPO3 4.5 will still work under TYPO3 8.x. Only the TCA must still be adapted and restructured into the Configuration/TCA folder instead of using the files tca.php and ext_tables.php.
 
-Version  0.0.0:  TYPO3 4.5 - 6.1: It does nothing because all those classes are available.
-Versions 0.0.x: TYPO3 6.x and 7.x
-Versions 0.1.x: TYPO3 8.x
-
+Version  0.0.0:  TYPO3 4.5 - 6.1: It does nothing because all those classes are directly available inside these versions of TYPO3. Version 0.0.0 is only available for download from Github.
+Versions 0.0.x:  TYPO3 6.x and 7.x
+Versions 0.1.x:  TYPO3 8.x
 
