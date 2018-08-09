@@ -19,7 +19,7 @@ Versions 0.1.x:  TYPO3 8.x
 
 ## Composer command line example
 
-    `composer require typo3-ter/migration-core ^0.1`
+`composer require typo3-ter/migration-core ^0.1`
     
 ... where 0.1 is the version number of the extension migration_core which you need.
 
