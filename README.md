@@ -12,7 +12,10 @@ If you install this extension, then most of the extensions written for TYPO3 4.5
 
 ## Versions
 
-- Version  0.0.0:  TYPO3 4.5 - 6.1: It does nothing because all those classes are directly available inside these versions of TYPO3. Version 0.0.0 is only available for download from Github. Alternatively you can remove this requirement completely from the file ext_emconf.php of the extension which depends on  migration_core.
+- Version  0.0.0:  TYPO3 4.5 - 6.1:
+
+It does nothing because all those classes are directly available inside these versions of TYPO3. Version 0.0.0 is only available for download from Github. Alternatively you can remove this requirement completely from the file ext_emconf.php of the extension which depends on  migration_core.
+
 - Versions 0.0.x:  TYPO3 6.x and 7.x
 - Versions 0.1.x:  TYPO3 8.x
 
