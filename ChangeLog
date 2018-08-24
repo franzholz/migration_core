@@ -1,3 +1,6 @@
+2018-08-24 Franz Holzinger  <franz@ttproducts.de>
+    * modification of composer.json
+
 2018-08-09 Franz Holzinger  <franz@ttproducts.de>
     * rename README.txt -> README.md
     * apply the writing and formatting syntax on README.txt
