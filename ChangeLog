@@ -1,3 +1,7 @@
+
+2018-09-20 Franz Holzinger  <franz@ttproducts.de>
+    * add requirement for "typo3/class-alias-loader" to composer.json
+
 2018-08-24 Franz Holzinger  <franz@ttproducts.de>
     * modification of composer.json
 
