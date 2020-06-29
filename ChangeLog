@@ -1,3 +1,5 @@
+2020-06-29 Franz Holzinger  <franz@ttproducts.de>
+    * fix composer requirements: replace.migration_core is invalid
 
 2018-09-20 Franz Holzinger  <franz@ttproducts.de>
     * add requirement for "typo3/class-alias-loader" to composer.json
