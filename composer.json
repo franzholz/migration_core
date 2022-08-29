@@ -36,7 +36,6 @@
     }
   },
   "replace": {
-    "jambagecom/migration-core": "self.version",
     "typo3-ter/migration-core": "self.version"
   },
   "extra": {
